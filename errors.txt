@@ -1,0 +1,11 @@
+[['Q202710', 'relation/1948565', 'shaheed_bhagat_singh_nagar', 'Polygon', 1],
+ ['Q2089141', 'relation/9510594', 'chittorgarh', 'MultiPolygon', 5],
+ ['Q202710', 'relation/9513166', 'sahibzada_ajit_singh_nagar', 'Polygon', 1],
+ ['Q2089141', 'relation/9538920', 'chitrakoot', 'Polygon', 1]]
+
+Corrections:
+
+[['Q202710', 'relation/1948565', 'shaheed_bhagat_singh_nagar', 'Polygon', 1],
+ ['Q1075011', 'relation/9510594', 'chittorgarh', 'MultiPolygon', 5],
+ ['Q2037672', 'relation/9513166', 'sahibzada_ajit_singh_nagar', 'Polygon', 1],
+ ['Q2089141', 'relation/9538920', 'chitrakoot', 'Polygon', 1]]
